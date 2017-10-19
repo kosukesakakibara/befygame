@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "befy.data.unityweb",
+"asmCodeUrl": "befy.asm.code.unityweb",
+"asmMemoryUrl": "befy.asm.memory.unityweb",
+"asmFrameworkUrl": "befy.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
